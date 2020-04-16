@@ -1,0 +1,1 @@
+<OpenAPI_ServiceResponse>	<cmmMsgHeader>		<returnCode>500</returnCode>		<errMsg>인증서비스 내부 오류...</errMsg>	</cmmMsgHeader></OpenAPI_ServiceResponse>

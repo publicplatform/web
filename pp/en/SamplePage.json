@@ -1,0 +1,9 @@
+[
+{"id":0,"visibility":"debug","key":-1,"no":1,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/bank/en/ContentList.json"},
+{"id":0,"visibility":"debug","key":-1,"no":2,"title":"Card","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/card/en/ContentList.json"},
+{"id":0,"visibility":"debug","key":-1,"no":3,"title":"Insurance","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/insurance/en/ContentList.json"},
+{"id":0,"visibility":"debug","key":-1,"no":4,"title":"Loan","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/loan/en/ContentList.json"},
+{"id":0,"visibility":"debug","key":-1,"no":5,"title":"Stock","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/stock/en/ContentList.json"},
+{"id":0,"visibility":"debug","key":-1,"no":6,"title":"Real-Estate","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/real-estate/en/ContentList.json"},
+{"id":0,"visibility":"debug","key":-1,"no":7,"title":"Useful-Info","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/useful-info/en/ContentList.json"},
+]

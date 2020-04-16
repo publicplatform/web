@@ -1,0 +1,5 @@
+[
+{"id":0,"visibility":"debug","key":-1,"no":1,"title":"Dynamic1","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-notice/ko/ContentList.json"},
+{"id":0,"visibility":"debug","key":-1,"no":2,"title":"Dynamic2","type":"html","webContentListUrl":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=1&search.boardtype=L"},
+{"id":0,"visibility":"debug","key":-1,"no":2,"title":"Dynamic3","type":"html","webContentListUrl":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=6&search.boardtype=Q"}
+]
