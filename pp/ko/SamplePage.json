@@ -1,0 +1,9 @@
+[
+{"id":0,"visibility":"visible","key":-1,"no":0,"title":"SOA","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/useful-info/ko/ContentList.json"},
+{"id":1,"visibility":"visible","key":-1,"no":1,"title":"은행","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/bank/ko/ContentList.json"},
+{"id":2,"visibility":"debug","key":-1,"no":2,"title":"카드","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/card/ko/ContentList.json"},
+{"id":3,"visibility":"debug","key":-1,"no":3,"title":"보험","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/insurance/ko/ContentList.json"},
+{"id":4,"visibility":"debug","key":-1,"no":4,"title":"대출","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/loan/ko/ContentList.json"},
+{"id":5,"visibility":"debug","key":-1,"no":5,"title":"주식","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/stock/ko/ContentList.json"},
+{"id":6,"visibility":"debug","key":-1,"no":6,"title":"부동산","type":"list","webContentListUrl":"https://icitum.github.io/web/soa/financial-tips/real-estate/ko/ContentList.json"},
+]
