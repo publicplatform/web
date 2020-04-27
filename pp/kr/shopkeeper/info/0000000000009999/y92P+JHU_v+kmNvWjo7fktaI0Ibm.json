@@ -1,1 +1,32 @@
-{"id":"y92P+JHU/v+kmNvWjo7fktaI0Ibm","grade":2,"phoneInfoList":[{"number":"01055714452","isMessagable":true},{"number":"07087339363","isMessagable":true}],"menuUrl":"https://m.blog.naver.com/kdr0923","regDatetime":202004151200,"expDatetime":999912312359}
+{
+   "id": "y92P+JHU/v+kmNvWjo7fktaI0Ibm",
+   "grade": 2,
+   "phoneInfoList": [
+      {
+         "number": "01055714452",
+         "isMessagable": true
+      },
+      {
+         "number": "01045814452",
+         "isMessagable": true
+      },
+      {
+         "number": "01088484452",
+         "isMessagable": true
+      },
+      {
+         "number": "07087339363",
+         "isMessagable": true
+      }
+   ],
+   "serviceOptions": {
+      "delivery": true,
+      "takeout": true,
+      "reservation": true,
+      "coupon": true,
+      "allDay": true,
+   },
+   "menuUrl": "https://m.blog.naver.com/kdr0923",
+   "regDatetime": 202004151200,
+   "expDatetime": 999912312359
+}
