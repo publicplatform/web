@@ -24,7 +24,7 @@
       "takeout": true,
       "reservation": true,
       "coupon": true,
-      "allDay": true,
+      "allDay": true
    },
    "menuUrl": "https://m.blog.naver.com/kdr0923",
    "regDatetime": 202004151200,
