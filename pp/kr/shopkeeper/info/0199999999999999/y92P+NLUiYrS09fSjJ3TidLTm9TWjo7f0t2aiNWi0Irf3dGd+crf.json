@@ -1,6 +1,6 @@
 {
    "id": "y92P+NLUiYrS09fSjJ3TidLTm9TWjo7f0t2aiNWi0Irf3dGd+crf",
-   "grade": 2,
+   "grade": 3,
    "phoneInfoList": [
       {
          "number": "01055714452",
@@ -24,9 +24,16 @@
       "takeout": true,
       "reservation": true,
       "coupon": true,
-      "allDay": true
+      "allDay": true,
+	  "driveThrough": true
    },
+   "no":0,
+   "subNo":0,
+   "iconUrl":"https://icitum.github.io/web/soa/community/event/ko/icons/ic_launcher.png",
    "menuUrl": "https://m.blog.naver.com/kdr0923",
+   "summary":"This item is for testing.",
    "regDatetime": 202004151200,
-   "expDatetime": 999912312359
+   "expDatetime": 999912312359,
+   "isShowBST":"false","isShowAET":"false",
+   "badgeText":"Event","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"}
 }
