@@ -3,19 +3,19 @@
    "grade": 3,
    "phoneInfoList": [
       {
-         "number": "01055714452",
+         "number": "ycqH8Nnd3tyF0t4=",
          "isMessagable": true
       },
       {
-         "number": "01045814452",
+         "number": "ycqH8Nnd3t2K0t4=",
          "isMessagable": true
       },
       {
-         "number": "01088484452",
+         "number": "ycqE99nd3tGG0t4=",
          "isMessagable": true
       },
       {
-         "number": "07087339363",
+         "number": "ycqF8tje2NGB390=",
          "isMessagable": true
       }
    ],
@@ -29,9 +29,10 @@
    },
    "no":0,
    "subNo":0,
-   "iconUrl":"https://icitum.github.io/web/soa/community/event/ko/icons/ic_launcher.png",
-   "menuUrl": "https://m.blog.naver.com/kdr0923",
-   "summary":"This item is for testing.",
+   "iconUrl": "gZbB7oKExZyCjIaCncHF3cSFz4HXxJCJloiMypaO7IyLgsKvjJuZiMmIkM7VmKvH25GGm8WjnpOClYyOx8jco53JkIa1jIyciA==",
+   "menuUrlType":"html"
+   "menuUrl": "gZbB7oaN35yKj8qEncbEgpuZiMnFiMTcmqyK2Y2W0Zc=",
+   "summary": "This item is for testing.",
    "regDatetime": 202004151200,
    "expDatetime": 999912312359,
    "isShowBST":"false","isShowAET":"false",
