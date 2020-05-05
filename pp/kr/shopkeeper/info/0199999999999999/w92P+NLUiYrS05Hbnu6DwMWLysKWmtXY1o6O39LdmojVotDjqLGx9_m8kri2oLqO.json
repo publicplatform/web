@@ -3,19 +3,19 @@
    "grade": 3,
    "phoneInfoList": [
       {
-         "number": "sUQG3XsR8Ro1MrfFPqLCtw==",
+         "number": "01055714452",
          "isMessagable": true
       },
       {
-         "number": "nAXEPbAO5okx9HP5XYINBQ==",
+         "number": "01045814452",
          "isMessagable": true
       },
       {
-         "number": "3KC/R+YztLl0punzF0B/9A==",
+         "number": "301088484452",
          "isMessagable": true
       },
       {
-         "number": "j2fBCEDkGG7DRk1LEwoCQA==",
+         "number": "07087339363",
          "isMessagable": true
       }
    ],
@@ -30,9 +30,9 @@
    },
    "no":0,
    "subNo":0,
-   "iconUrl":"M/bSpbbIbyDEFB2DSuyZ+gu5Tw0U2p/XE5bOVc5z8qitxhNgWX/mJOkYYtcx0poQ/c5Xe3rwskrJq4fmsf+Tnq2Zg0049JEuNKYfxsRoLfs=",
+   "iconUrl":"https://icitum.github.io/web/soa/community/event/ko/icons/ic_launcher.png",
    "menuUrlType":"html",
-   "menuUrl": "EvasqYJVbQBlbAFJAh9DwMFXI9XIYtovNKMK2Is0uVEYvxX8BF/jVRVF0r8bzmKx",
+   "menuUrl": "https://cafe.naver.com/themukja/1443835",
    "summary": "This item is for testing.",
    "regDatetime": 202005101000,
    "expDatetime": 999912312359,
