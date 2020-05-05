@@ -19,6 +19,7 @@
          "isMessagable": true
       }
    ],
+   "menuInfoList": null,
    "serviceOptions": {
       "delivery": true,
       "takeout": true,
