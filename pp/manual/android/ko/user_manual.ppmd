@@ -1,6 +1,6 @@
 # 공공플랫폼 [공플] v1.0.0 매뉴얼
 
-### [1. 설정](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_settings.ppmd)
+## [1. 설정](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_settings.ppmd)
 
 * 1.1 일반
 * 1.2 공공데이터
@@ -9,7 +9,7 @@
 * 1.5 데이터 & 보안
 <br>
 
-### [2. 오픈 딜리버리](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_open_delivery.ppmd)
+## [2. 오픈 딜리버리](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_open_delivery.ppmd)
 
 * 2.1 지역 설정 및 업종 선택
   * 2.1.1 지역 설정
@@ -20,7 +20,7 @@
   * 2.2.1 상점 검색
   * 2.2.2 즐겨찾기
 
-### [3. 점주페이지](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_shopkeeper.ppmd)
+## [3. 점주페이지](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_shopkeeper.ppmd)
 
 * 3.1 매장관리
   * 3.1.1 매장 정보
@@ -30,9 +30,9 @@
   * 3.1.2 관리 메뉴
     * 3.1.2.1 메뉴 페이지
     * 3.1.2.2 주문 관리
-    * 3.1.2.2 예약 관리
-    * 3.1.2.2 고객 쿠폰 관리
-    * 3.1.2.2 배달 업체 관리
+    * 3.1.2.3 예약 관리
+    * 3.1.2.4 고객 쿠폰 관리
+    * 3.1.2.5 배달 업체 관리
 
 * 3.2 점주 등록
 
