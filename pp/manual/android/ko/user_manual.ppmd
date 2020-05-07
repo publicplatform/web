@@ -4,93 +4,38 @@
 <br>
 
 * 1.1 일반
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_settings_general.png@100%|auto)
-
-<br>
-
 * 1.2 공공데이터
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_settings_public_data.png@100%|auto)
-
-<br>
-
 * 1.3 페이지
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_settings_pages.png@100%|auto)
-
-<br>
-
 * 1.4 알림
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_settings_notification.png@100%|auto)
-
-<br>
-
 * 1.5 데이터 & 보안
 <br>
 
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_settings_data_and_security.png@100%|auto)
-
-<br>
-
 ### [2. 오픈 딜리버리](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_open_delivery.ppmd)
-<br>
 
 * 2.1 지역 설정 및 업종 선택
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_open_delivery_select_region_and_section.png@100%|auto)
-
-<br>
-
+* 
   * 2.1.1 지역 설정
-<br>
   * 2.1.2 검색 반경
-<br>
   * 2.1.3 업종 선택
-<br>
 
 * 2.2 상점 검색 및 즐겨찾기
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_open_delivery_search_store_and_favorites.png@100%|auto)
-
-<br>
   * 2.2.1 상점 검색
-<br>
   * 2.2.2 즐겨찾기
-<br>
 
 ### [3. 점주페이지](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_shopkeeper.ppmd)
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_management.png@100%|auto)
-
-<br>
 
 * 3.1 매장관리
-
   * 3.1.1 매장 정보
 
     * 3.1.1.1 일반 정보
-
     * 3.1.1.2 서비스 옵션
 
   * 3.1.2 관리 메뉴
 
     * 3.1.2.1 메뉴 페이지
-
     * 3.1.2.2 주문 관리
-
     * 3.1.2.2 예약 관리
-
     * 3.1.2.2 고객 쿠폰 관리
-
     * 3.1.2.2 배달 업체 관리
 
 * 3.2 점주 등록
