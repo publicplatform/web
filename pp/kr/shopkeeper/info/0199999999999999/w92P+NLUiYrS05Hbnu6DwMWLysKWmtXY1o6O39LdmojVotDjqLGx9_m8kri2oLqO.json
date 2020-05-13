@@ -21,6 +21,7 @@
    ],
    "menuInfoList": null,
    "serviceOptions": {
+      "selfDelivery": true,
       "delivery": true,
       "takeout": true,
       "reservation": true,
@@ -37,5 +38,5 @@
    "regDatetime": 202005101000,
    "expDatetime": 999912312359,
    "isShowBST":"false","isShowAET":"false",
-   "badgeText":"Event","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+   "badgeText":"이벤트","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
 }
