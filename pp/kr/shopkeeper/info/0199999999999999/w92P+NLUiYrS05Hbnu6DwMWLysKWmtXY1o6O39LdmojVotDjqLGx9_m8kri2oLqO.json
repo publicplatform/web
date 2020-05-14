@@ -27,6 +27,7 @@
       "reservation": true,
       "coupon": true,
       "allDay": true,
+      "parking": true,
 	  "driveThrough": true
    },
    "no":0,
