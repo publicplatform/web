@@ -1,5 +1,6 @@
 {
    "id": "w92P+NLUiYrS05Hbnu6DwMWLysKWmtXY1o6O39LdmojVotDjqLGx9/m8kri2oLqO",
+   "storeType":"delivery",
    "grade": 3,
    "phoneInfoList": [
       {
@@ -33,7 +34,6 @@
    "no":0,
    "subNo":0,
    "iconUrl":"https://publicplatform.github.io/web/pp/test/images/cafe_202005060930.jpg",
-   "storeType":"delivery",
    "menuUrl": "https://cafe.naver.com/themukja/1443835",
    "summary": "♡소중한 사람과 여유를 즐기세요♡",
    "regDatetime": 202005101000,
