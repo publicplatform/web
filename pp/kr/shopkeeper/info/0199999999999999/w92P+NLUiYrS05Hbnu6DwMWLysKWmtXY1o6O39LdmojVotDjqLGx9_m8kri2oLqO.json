@@ -28,12 +28,12 @@
       "coupon": true,
       "allDay": true,
       "parking": true,
-	  "driveThrough": true
+      "driveThrough": true
    },
    "no":0,
    "subNo":0,
    "iconUrl":"https://publicplatform.github.io/web/pp/test/images/cafe_202005060930.jpg",
-   "menuUrlType":"html",
+   "storeType":"delivery",
    "menuUrl": "https://cafe.naver.com/themukja/1443835",
    "summary": "♡소중한 사람과 여유를 즐기세요♡",
    "regDatetime": 202005101000,
