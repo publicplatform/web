@@ -3,7 +3,7 @@
 ## 2.1 매장관리
 <br>
 
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_management_202005142000.png@100%|auto)
+![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_management_202005161500.png@100%|auto)
 
 <br>
 
@@ -15,13 +15,15 @@
 
     * 2.1.1.2 서비스 옵션
     
-      서비스 목록으로 가능여부 표시
+      제공 서비스 목록으로 가능여부 표시<br>
+      (자차배달 및 배달대행, 포장, 예약, 쿠폰, 24시간, 주차, 드라이브 쓰루)
 
   * 2.1.2 관리 메뉴
   
-    * 2.1.2.1 메뉴 페이지
+    * 2.1.2.1 메뉴 / 상점 소개 페이지
     
-      등록된 메뉴 페이지로 이동
+      메뉴 페이지: 등록된 메뉴 페이지로 이동<br>
+      상점 소개 페이지: 등록된 상점 소개 페이지로 이동
 
     * 2.1.2.2 주문 관리
     
@@ -45,7 +47,7 @@
 ## 2.2 [공공플랫폼 서비스 신청](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_join_public_platform.ppmd)
 <br>
 
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_registration.png@100%|auto)
+![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_registration_202005161500.png@100%|auto)
 
 <br>
 
