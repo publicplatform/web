@@ -1,80 +1,48 @@
-# 3. 점주페이지
+# 2. 점주페이지
 
-## 3.1 매장관리
+## 2.1 매장관리
 <br>
 
 ![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_management_202005142000.png@100%|auto)
 
 <br>
 
-  * 3.1.1 매장 정보
+  * 2.1.1 매장 정보
   
-    * 3.1.1.1 일반 정보
+    * 2.1.1.1 일반 정보
   
       등록된 일반 정보 표시
 
-    * 3.1.1.2 서비스 옵션
+    * 2.1.1.2 서비스 옵션
     
       서비스 목록으로 가능여부 표시
 
-  * 3.1.2 관리 메뉴
+  * 2.1.2 관리 메뉴
   
-    * 3.1.2.1 메뉴 페이지
+    * 2.1.2.1 메뉴 페이지
     
       등록된 메뉴 페이지로 이동
 
-    * 3.1.2.2 주문 관리
+    * 2.1.2.2 주문 관리
     
       주문 관리 페이지로 이동하며 서비스 준비 중입니다.
 
-    * 3.1.2.3 예약 관리
+    * 2.1.2.3 예약 관리
     
       예약 관리 페이지로 이동하며 서비스 준비 중입니다.
       
-    * 3.1.2.4 고객 쿠폰 관리
+    * 2.1.2.4 고객 쿠폰 관리
     
       고객 쿠폰 관리 페이지로 이동하며 쿠폰 발행 및 사용 처리 등<br>
       서비스 준비 중입니다.
       
-    * 3.1.2.5 배달 업체 관리
+    * 2.1.2.5 배달 업체 관리
     
       배달 업체 관리 페이지로 이동하며 서비스 준비 중입니다.
 
 <br><br>
 
-## 3.2 오픈 딜리버리 서비스 종류
-<br>
-
-![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_service_type_202005120000.png@100%|auto)
-
-  * 3.2.1 Normal
-  
-    상점명, 업종, 주소, 거리 등 공공데이터 기반의 정보 + 즐겨 찾기
-
-  * 3.2.2 Basic
-  
-    Normal + 상점 아이콘, 상점 문구, <br>
-    서비스 가능 정보 (배달, 포장, 예약, 쿠폰, 24시간, 드라이브 쓰루), <br>
-    결제 수단 정보 (현금, 신용/체크카드, 상품권, Pay 서비스 등), <br>
-    메뉴 정보, 전화 주문 등
-
-  * 3.2.3 Standard
-  
-    Basic + 상세 메뉴 정보 + 문자 주문 + 배달대행업체 정보 제공 + <br>
-     선결제 연동(연동 시 별도 서비스 가입 필요)
-
-    ※ 배달대행업체: 상점 주변에 등록된 배달대행업체 정보로 점주가 직접 계약
-
-  * 3.2.4 Premium
-  
-    Standard + 배지 아이콘 + 쿠폰 발행 + 점주 전용 PC 프로그램
-
-    ※ 배지 아이콘: 상점 아이콘 상단 또는 하단에 배지 아아콘 표시<br>
-    ※ 점주 전용 PC 프로그램: 스마트폰과 POS PC 주문 데이터 동기화 및 관리
-
-<br><br>
-
-## 3.3 오픈 딜리버리 Basic 서비스 신청 [[무료 신청하기](http://naver.me/5JY7HH9H)]
+## 2.2 [공공플랫폼 서비스 신청](https://publicplatform.github.io/web/pp/manual/android/ko/user_manual_join_public_platform.ppmd)
 <br>
 
 ![](https://publicplatform.github.io/web/pp/manual/android/ko/images/pp_shopkeeper_registration.png@100%|auto)
