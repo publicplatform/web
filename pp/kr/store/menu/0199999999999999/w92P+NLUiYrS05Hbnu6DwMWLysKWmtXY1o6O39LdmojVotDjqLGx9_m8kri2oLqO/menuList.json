@@ -43,7 +43,7 @@
  {"id":1, "title":"1 whole", "price":12000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""}
  ],
  "menuDescription":"💚초콜릿의 달콤함을느껴보세요❗", 
- "menuImageUrl":"images/.jpg", 
+ "menuImageUrl":"images/brownie.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"},
