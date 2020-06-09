@@ -31,7 +31,7 @@
  {"id":1, "title":"1 whole", "price":10000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""}
  ],
  "menuDescription":"🧡상큼한 체리의 신선함을 느껴보세요❗", 
- "menuImageUrl":"", 
+ "menuImageUrl":"images/cherrypie.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"},
@@ -43,7 +43,7 @@
  {"id":1, "title":"1 whole", "price":12000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""}
  ],
  "menuDescription":"💚초콜릿의 달콤함을느껴보세요❗", 
- "menuImageUrl":"", 
+ "menuImageUrl":"images/.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"},
@@ -55,7 +55,7 @@
  {"id":1, "title":"3 cups", "price":8000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""}
  ],
  "menuDescription":"💛촉촉하고 달콤한 맛을 느껴보세요❗", 
- "menuImageUrl":"", 
+ "menuImageUrl":"images/cupcake.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"},
@@ -67,7 +67,7 @@
  {"id":1, "title":"5 waffles", "price":7000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""}
  ],
  "menuDescription":"🧡고소한 맛과 부드러움을 느껴보세요❗", 
- "menuImageUrl":"", 
+ "menuImageUrl":"images/waffles.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"},
@@ -79,7 +79,7 @@
  {"id":1, "title":"5 donuts", "price":7000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""}
  ],
  "menuDescription":"💚달콤한 맛과 부드러움을 느껴보세요❗", 
- "menuImageUrl":"", 
+ "menuImageUrl":"images/donuts.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"},
@@ -90,7 +90,7 @@
  {"id":0, "title":"1 whole", "price":7000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""}
  ],
  "menuDescription":"💛시럽의 달콤함과 케이크의 부드러움을 느껴보세요❗", 
- "menuImageUrl":"", 
+ "menuImageUrl":"images/pancakes.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"},
@@ -102,7 +102,7 @@
  {"id":1, "title":"5 cookies", "price":5000, "tax":"10%", "discount":"20%", "beginDate":"20200601", "endDate":"20201231", "beginTime":"000000", "endTime":"235959", "remark":""} 
  ],
  "menuDescription":"🧡고소한 맛과 바삭함을 느껴보세요❗", 
- "menuImageUrl":"", 
+ "menuImageUrl":"images/cookie.jpg", 
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"}
