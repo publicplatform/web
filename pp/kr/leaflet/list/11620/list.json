@@ -27,7 +27,7 @@
         "remark": "",
         "visibility": "visible",
 	"isDebug": true,
-	"badgeText":"Fresh","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+	"badgeText":"Fresh","badgeColor":"#0099FF","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
     },
     {
         "no": 2,
