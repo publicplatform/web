@@ -19,7 +19,7 @@
         "title": "원당종합시장",
         "address": "서울특별시 관악구 남부순환로248길 35",
         "phone": "02-888-0930",
-        "section": "전통시장",
+        "section": "마트/편의점",
         "iconUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDAzMDVfMjA4%2FMDAxNzA5NjI1MzA3MDk3.9ioPZmdR5DHVnsRTg-_nxhR57bzRrshGwwA1YTfqCGUg.amI92r3YnPrshJrq_kE8gw_UtQ7-lh75YRyfrVoU9skg.JPEG%2F20240305_164151.jpg.jpg",
         "introUrl": "https://pcmap.place.naver.com/place/18194794/home",
         "leafletUrl": "https://pcmap.place.naver.com/place/18194794/home",
@@ -27,14 +27,14 @@
         "remark": "",
         "visibility": "visible",
 	"isDebug": true,
-	"badgeText":"Grand","badgeColor":"","badgeSubText":"Open","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+	"badgeText":"Fresh","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
     },
     {
         "no": 2,
         "title": "인헌시장",
         "address": "서울 관악구 남부순환로246나길 14",
         "phone": "02-877-2665",
-        "section": "마트/편의점",
+        "section": "전통시장",
         "iconUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190614_22%2F1560501458681z0o6R_PNG%2Fn9OJUiq2qhk3UB2UmG272YJK.png",
         "introUrl": "https://shopping.naver.com/market/traditionalmarket?storeId=100839984",
         "leafletUrl": "https://shopping.naver.com/market/traditionalmarket?storeId=100839984",
