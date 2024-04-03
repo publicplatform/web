@@ -11,7 +11,8 @@
         "summary": "공공플랫폼에 등록된 스마트전단 입니다!",
         "remark": "",
         "visibility": "visible",
-		"isDebug": true
+	"isDebug": true,
+	"badgeText":"할인 20%","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
     },
     {
         "no": 1,
@@ -25,8 +26,8 @@
         "summary": "원당종합시장",
         "remark": "",
         "visibility": "visible",
-		"isDebug": true,
-		"badgeText":"Grand","badgeColor":"","badgeSubText":"Open","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+	"isDebug": true,
+	"badgeText":"Grand","badgeColor":"","badgeSubText":"Open","badgeTextColor":"","badgeAlignment":"overlay|left|top"
     },
     {
         "no": 2,
@@ -40,7 +41,7 @@
         "summary": "인헌시장",
         "remark": "",
         "visibility": "visible",
-		"isDebug": true
-		"badgeText":"할인","badgeColor":"","badgeSubText":"10%","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+	"isDebug": true,
+	"badgeText":"할인","badgeColor":"","badgeSubText":"10%","badgeTextColor":"","badgeAlignment":"overlay|left|top"
     }
 ]
