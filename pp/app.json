@@ -16,4 +16,6 @@
 "urlsDynamicTabPage":["https://publicplatform.github.io/web/pp/[]/DynamicTabPage.json", "https://publicplatform.github.io/web/pp/[]/DynamicTabPage.json"], 
 "visibilitySamplePage":"debug",
 "visibilityDynamicTabPages":"invisible",
+"gradeEvent": 768,
+"eventDatetime": 202412312359,
 "supportedLanguages":["en", "ko"]}
