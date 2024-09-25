@@ -1,4 +1,4 @@
-"menuList": [
+{"menuList": [
 {"no":0, "subNo":0, 
  "categoryId":10000, "subCategoryId":10000, "menuId":10000, 
  "categoryName":"디저트", "subCategoryName":"케이크", "menuName":"롤케이크", 
@@ -106,4 +106,4 @@
  "menuDetailsUrl":"https://cafe.naver.com/publicplatform/5", 
  "remark":"", 
  "visibility":"visible"}
-]
+]}
