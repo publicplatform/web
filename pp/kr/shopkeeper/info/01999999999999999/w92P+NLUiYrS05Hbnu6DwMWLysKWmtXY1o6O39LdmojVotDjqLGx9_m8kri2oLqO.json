@@ -1,0 +1,45 @@
+{
+   "id": "w92P+NLUiYrS05Hbnu6DwMWLysKWmtXY1o6O39LdmojVotDjqLGx9/m8kri2oLqO",
+   "grade": 768,
+   "phoneInfoList": [
+      {
+         "number": "R5/L5X6CUH5Y06D38e7AwQ==",
+         "isMessagable": true
+      },
+      {
+         "number": "nAXEPbAO5okx9HP5XYINBQ==",
+         "isMessagable": true
+      },
+      {
+         "number": "3KC/R+YztLl0punzF0B/9A==",
+         "isMessagable": true
+      },
+      {
+         "number": "9X10Yq5HGKbDYTm5DeYUOyCwHKs/v4c2+q7Nveu3wjs=",
+         "isMessagable": true
+      }
+   ],
+   "menuInfoList": null,
+   "serviceOptions": {
+      "selfDelivery": true,
+      "delivery": true,
+      "takeout": true,
+      "reservation": true,
+      "coupon": true,
+      "allDay": true,
+      "parking": true,
+      "driveThrough": true
+   },
+   "no":0,
+   "subNo":0,
+   "hostUrl":"https://publicplatform.github.io/web",
+   "iconUrl":"https://publicplatform.github.io/web/pp/test/images/cafe_202005060930.jpg",
+   "introUrl": "https://cafe.naver.com/publicplatform/6",
+   "menuUrl": "https://cafe.naver.com/publicplatform/5",
+   "flyerUrl":"https://publicplatform.github.io/web/pp/test/images/flyer_blueberry_cafe.png",
+   "summary": "♡소중한 사람과 여유를 즐기세요♡",
+   "regDatetime": 202005101000,
+   "expDatetime": 99991231235959,
+   "isShowBST":false,"isShowAET":false,
+   "badgeText":"할인 20%","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+}
