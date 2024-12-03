@@ -1,0 +1,49 @@
+{
+   "id": "w92P+NLUiYrS3JHbnu6DwNiLysKWmtXY1o6O39LdmojVotDjqLGx9468kri2oLqO",
+   "grade": 768,
+   "phoneInfoList": [
+      {
+         "number": "b/QqWRnyUi34SUdbD9ocmw==",
+         "isMessagable": true
+      },
+      {
+         "number": "w1T+dAzVSt8ADDs2FGdpBg==",
+         "isMessagable": true
+      },
+      {
+         "number": "IvcAXodK1OkMXLu1m9wi0g==",
+         "isMessagable": true
+      },
+      {
+         "number": "zK6uQ0gSlqRKfKiTMhbNYQ==",
+         "isMessagable": true
+      },
+      {
+         "number": "et6OUCd2oR2PX333/4zeGg==",
+         "isMessagable": true
+      }
+   ],
+   "menuInfoList": null,
+   "serviceOptions": {
+      "selfDelivery": true,
+      "delivery": true,
+      "takeout": true,
+      "reservation": true,
+      "coupon": true,
+      "allDay": true,
+      "parking": true,
+      "driveThrough": true
+   },
+   "no":0,
+   "subNo":0,
+   "hostUrl":"https://publicplatform.github.io/web",
+   "iconUrl":"https://publicplatform.github.io/web/pp/test/images/cafe_in_my_heart.jpg",
+   "introUrl": "https://cafe.naver.com/publicplatform/26",
+   "menuUrl": "https://cafe.naver.com/publicplatform/25",
+   "flyerUrl":"https://publicplatform.github.io/web/pp/test/images/cafe_in_my_heart_flyer.png",
+   "summary": "♡소중한 사람과 여유를 즐기세요♡",
+   "regDatetime": 202005101000,
+   "expDatetime": 99991231235959,
+   "isShowBST":false,"isShowAET":false,
+   "badgeText":"할인 20%","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+}

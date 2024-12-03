@@ -18,7 +18,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -31,7 +31,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -61,7 +61,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -74,7 +74,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -104,7 +104,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -117,7 +117,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -147,7 +147,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -160,7 +160,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -190,7 +190,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -203,7 +203,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -219,7 +219,7 @@
       "no": 0,
       "subNo": 5,
       "categoryId": 10000,
-      "subCategoryId": 10000,
+      "subCategoryId": 10001,
       "menuId": 10005,
       "categoryName": "디저트",
       "subCategoryName": "파이",
@@ -233,7 +233,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -246,7 +246,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -276,7 +276,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -289,7 +289,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -319,7 +319,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -349,7 +349,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
@@ -362,7 +362,7 @@
           "tax": "10%",
           "discount": "20%",
           "beginDate": "20200601",
-          "endDate": "20201231",
+          "endDate": "99991231",
           "beginTime": "000000",
           "endTime": "235959",
           "remark": ""
