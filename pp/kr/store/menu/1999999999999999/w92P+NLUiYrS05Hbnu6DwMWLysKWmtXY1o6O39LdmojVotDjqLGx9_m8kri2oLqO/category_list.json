@@ -1,6 +1,84 @@
 {
     "menuCategoryList": [
         {
+            "id": 16777216,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16842752,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843008,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
             "id": 16843009,
             "menuCategoryPartList": [
                 {
@@ -235,6 +313,32 @@
             "comment": null
         },
         {
+            "id": 16843264,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "파이",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
             "id": 16843265,
             "menuCategoryPartList": [
                 {
@@ -313,6 +417,32 @@
             "comment": null
         },
         {
+            "id": 16843520,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "도넛",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
             "id": 16843521,
             "menuCategoryPartList": [
                 {
@@ -359,6 +489,32 @@
                 {
                     "id": 2,
                     "name": "볼도넛",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843776,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "쿠키",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
                     "comment": ""
                 }
             ],
@@ -437,6 +593,32 @@
                 {
                     "id": 3,
                     "name": "견과류",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16908288,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "제빵류",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
                     "comment": ""
                 }
             ],
@@ -557,6 +739,32 @@
                 {
                     "id": 4,
                     "name": "기타",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33554432,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
                     "comment": ""
                 },
                 {
