@@ -157,7 +157,7 @@
             "comment": null
         },
         {
-            "id": 16843014,
+            "id": 16843015,
             "menuCategoryPartList": [
                 {
                     "id": 1,
@@ -175,8 +175,34 @@
                     "comment": ""
                 },
                 {
-                    "id": 6,
+                    "id": 7,
                     "name": "카스테라",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843016,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 7,
+                    "name": "롤케이크",
                     "comment": ""
                 }
             ],
