@@ -51,7 +51,7 @@
       "allDay": true,
       "parking": true,
       "driveThrough": true,
-      "payments": 65536
+      "payments": 65535
    },
    "no":0,
    "subNo":0,
