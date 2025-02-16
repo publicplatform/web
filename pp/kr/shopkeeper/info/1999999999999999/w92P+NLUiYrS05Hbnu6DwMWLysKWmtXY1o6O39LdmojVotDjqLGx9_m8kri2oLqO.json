@@ -50,7 +50,8 @@
       "coupon": true,
       "allDay": true,
       "parking": true,
-      "driveThrough": true
+      "driveThrough": true,
+      "payments": 65536
    },
    "no":0,
    "subNo":0,
