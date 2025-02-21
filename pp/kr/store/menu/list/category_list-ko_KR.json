@@ -1,0 +1,992 @@
+{
+    "menuCategoryList": [
+        {
+            "id": 16777216,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16842752,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843008,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843009,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "생크림",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843010,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "생과일",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843011,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "초코",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843012,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "브라우니",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843013,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 5,
+                    "name": "컵케이크",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843014,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 6,
+                    "name": "팬케이크",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843015,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 7,
+                    "name": "카스테라",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843016,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 8,
+                    "name": "롤케이크",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843017,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "케이크",
+                    "comment": ""
+                },
+                {
+                    "id": 9,
+                    "name": "치즈케이크",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843264,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "파이",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843265,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "파이",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "과일",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843266,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "파이",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "견과류",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843267,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "파이",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "와플",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843520,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "도넛",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843521,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "도넛",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "링도넛",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843522,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "도넛",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "볼도넛",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843776,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "쿠키",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843777,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "쿠키",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "소프트쿠키",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843778,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "쿠키",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "초코",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16843779,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "제과류",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "쿠키",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "견과류",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16908288,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "제빵류",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16908544,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "제빵류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "식빵",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16908800,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "제빵류",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "베이글",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16909056,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "제빵류",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "페이스트",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 16973824,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "샌드위치",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 17039360,
+            "menuCategoryPartList": [
+                {
+                    "id": 1,
+                    "name": "디저트",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "기타",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33554432,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33619968,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 1,
+                    "name": "커피",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33685504,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 2,
+                    "name": "차",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33751040,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 3,
+                    "name": "생과일",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33816576,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 4,
+                    "name": "쉐이크",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33882112,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 5,
+                    "name": "스무디",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 33947648,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 6,
+                    "name": "탄산",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 34013184,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 7,
+                    "name": "에이드",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        },
+        {
+            "id": 34078720,
+            "menuCategoryPartList": [
+                {
+                    "id": 2,
+                    "name": "음료류",
+                    "comment": ""
+                },
+                {
+                    "id": 8,
+                    "name": "기타",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                },
+                {
+                    "id": 0,
+                    "name": "",
+                    "comment": ""
+                }
+            ],
+            "comment": null
+        }
+    ]
+}
