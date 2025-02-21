@@ -1,0 +1,68 @@
+{
+   "id": "w92P+NLUiYrS05Hbnu6DwMWLysKWmtXY1o6O39LdmojVotDjqLGx9/m8kri2oLqO",
+   "storeId": "pYyrfQIiFJcpY3t371hHCOUVmUbzqafmKdwcLfPYzKQ=",
+   "storeName": "ERZlxK4BDO+6ACT1bdnnL0flLlhVlbUDRvHsu/e08ek=",
+   "lat": "sbbI2GSMCjcLZEC3fP8J3Q==",
+   "lon": "KE31iY4YrGZdHdIXe5sIiA==",
+   "grade": 768,
+   "partnerInfoList" : [
+      {
+         "id": "pYyrfQIiFJcpY3t371hHCLnKy3j3lHsglbvHn+0LXv8=",
+         "hid": "dDCo+q4mEEykFn+mRvCvmA==",
+         "name": "카페인마이하트",
+         "comment": "♡사랑과 추억의 공간을 제공합니다♡"
+      },
+      {
+         "id": "pYyrfQIiFJcpY3t371hHCOUVmUbzqafmKdwcLfPYzKQ=",
+         "hid": "rnCDAg+I0ZobuFAYd2u1MQ==",
+         "name": "블루베리 디저트",
+         "comment": "♡소중한 사람과 여유를 즐기세요♡"
+      }
+   ],
+   "phoneInfoList": [
+      {
+         "number": "nsx9ERw8x44Ybo1kl84OMA==",
+         "isMessagable": true
+      },
+      {
+         "number": "/xqU1RL6smTOHvIs5tynng==",
+         "isMessagable": true
+      },
+      {
+         "number": "W0V2vxBCPEnt9Y8G2LhqCA==",
+         "isMessagable": true
+      },
+      {
+         "number": "4ycyt6KvtpjYyzOsNOhZxQ==",
+         "isMessagable": true
+      },
+      {
+         "number": "0DEtwpDNgs6qYzBULdaf3Q==",
+         "isMessagable": false
+      }
+   ],
+   "menuInfoList": null,
+   "serviceOptions": {
+      "selfDelivery": true,
+      "delivery": true,
+      "takeout": true,
+      "reservation": true,
+      "coupon": true,
+      "allDay": true,
+      "parking": true,
+      "driveThrough": true,
+      "paymentTypes": 65535
+   },
+   "no":0,
+   "subNo":0,
+   "hostUrl":"https://publicplatform.github.io/web",
+   "iconUrl":"https://publicplatform.github.io/web/pp/test/images/cafe_202005060930.jpg",
+   "introUrl": "https://cafe.naver.com/publicplatform/6",
+   "menuUrl": "https://cafe.naver.com/publicplatform/5",
+   "flyerUrl":"https://publicplatform.github.io/web/pp/test/images/flyer_blueberry_cafe.png",
+   "summary": "♡소중한 사람과 여유를 즐기세요♡",
+   "regDatetime": 202005101000,
+   "expDatetime": 99991231235959,
+   "isShowBST":false,"isShowAET":false,
+   "badgeText":"할인 20%","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+}
