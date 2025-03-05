@@ -82,5 +82,5 @@
    "regDatetime": 202005101000,
    "expDatetime": 99991231235959,
    "isShowBST":false,"isShowAET":false,
-   "badgeText":"할인 20%","badgeColor":"","badgeSubText":"","badgeTextColor":"","badgeAlignment":"overlay|left|top"
+   "badgeText":"할인 20%","badgeColor":"#ffea5b5b","badgeSubText":"","badgeTextColor":"#ffffffff","badgeAlignment":"overlay|left|top"
 }
