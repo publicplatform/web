@@ -6,6 +6,20 @@
    "lat": "sbbI2GSMCjcLZEC3fP8J3Q==",
    "lon": "KE31iY4YrGZdHdIXe5sIiA==",
    "address": "yqpNxY2tmi7PjVGR9Nf3pseZvAHWRyNw3eeuAcAg4Zc=",
+   "paymentKey": "",
+   "paymentUrl": "",
+   "countryIso": "kr",
+   "supportedLocales": {
+       "supportedLocales": [
+           "ko_KR",
+           "en_US"
+       ],
+       "defaultLocale": "ko_KR"
+   },
+   "stId": "",
+   "openingTime": 800,
+   "closingTime": 2200,
+   "holidays": 2624,
    "grade": 768,
    "partnerInfoList" : [
       {
