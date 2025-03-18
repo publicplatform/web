@@ -24,7 +24,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": true,
+            "comment": ""
         },
         {
             "id": 16842752,
@@ -50,7 +51,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": true,
+            "comment": ""
         },
         {
             "id": 16843008,
@@ -76,7 +78,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": true,
+            "comment": ""
         },
         {
             "id": 16843009,
@@ -102,7 +105,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843010,
@@ -128,7 +132,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843011,
@@ -154,7 +159,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843012,
@@ -180,7 +186,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843013,
@@ -206,7 +213,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843014,
@@ -232,7 +240,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843015,
@@ -258,7 +267,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843016,
@@ -284,7 +294,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843017,
@@ -310,7 +321,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843264,
@@ -336,7 +348,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": true,
+            "comment": ""
         },
         {
             "id": 16843265,
@@ -362,7 +375,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843266,
@@ -388,7 +402,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843267,
@@ -414,7 +429,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843520,
@@ -440,7 +456,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": true,
+            "comment": ""
         },
         {
             "id": 16843521,
@@ -466,7 +483,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843522,
@@ -492,7 +510,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843776,
@@ -518,7 +537,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": true,
+            "comment": ""
         },
         {
             "id": 16843777,
@@ -544,7 +564,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843778,
@@ -570,7 +591,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16843779,
@@ -596,7 +618,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16908288,
@@ -622,7 +645,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16908544,
@@ -648,7 +672,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16908800,
@@ -674,7 +699,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16909056,
@@ -700,7 +726,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 16973824,
@@ -726,7 +753,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 17039360,
@@ -752,7 +780,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 33554432,
@@ -778,7 +807,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 33619968,
@@ -804,7 +834,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 33685504,
@@ -830,7 +861,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 33751040,
@@ -856,7 +888,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 33816576,
@@ -882,7 +915,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 33882112,
@@ -908,7 +942,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 33947648,
@@ -934,7 +969,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 34013184,
@@ -960,7 +996,8 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         },
         {
             "id": 34078720,
@@ -986,15 +1023,15 @@
                     "comment": ""
                 }
             ],
-            "comment": null
+            "isKiosk": false,
+            "comment": ""
         }
     ],
-    "kioskMenuCategoryList": [
-        16777216,
-        16842752,
-        16843008,
-        16843264,
-        16843520,
-        16843776
-    ]
+    "supportedLocales": {
+        "supportedLocales": [
+            "en_US",
+            "ko_KR"
+        ],
+        "defaultLocale": "ko_KR"
+    }
 }
