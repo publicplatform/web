@@ -246,7 +246,7 @@
                 }
             ],
             "menuDescription": "💚달콤한 크림의 부드러움을 느껴보세요❗",
-            "menuImageUrl": "images/rollcake.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/rollcake.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -497,7 +497,7 @@
                 }
             ],
             "menuDescription": "💛치즈의 풍부한 맛을 느껴보세요❗",
-            "menuImageUrl": "images/cheesecake.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/cheesecake.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -748,7 +748,7 @@
                 }
             ],
             "menuDescription": "🧡상큼한 체리의 신선함을 느껴보세요❗",
-            "menuImageUrl": "images/cherrypie.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/cherrypie.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -999,7 +999,7 @@
                 }
             ],
             "menuDescription": "💚초콜릿의 달콤함을느껴보세요❗",
-            "menuImageUrl": "images/brownie.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/brownie.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -1250,7 +1250,7 @@
                 }
             ],
             "menuDescription": "💛촉촉하고 달콤한 맛을 느껴보세요❗",
-            "menuImageUrl": "images/cupcake.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/cupcake.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -1501,7 +1501,7 @@
                 }
             ],
             "menuDescription": "🧡고소한 맛과 부드러움을 느껴보세요❗",
-            "menuImageUrl": "images/waffles.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/waffles.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -1752,7 +1752,7 @@
                 }
             ],
             "menuDescription": "💚달콤한 맛과 부드러움을 느껴보세요❗",
-            "menuImageUrl": "images/donuts.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/donuts.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -1885,7 +1885,7 @@
                 }
             ],
             "menuDescription": "💛시럽의 달콤함과 케이크의 부드러움을 느껴보세요❗",
-            "menuImageUrl": "images/pancakes.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/pancakes.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
@@ -2136,7 +2136,7 @@
                 }
             ],
             "menuDescription": "🧡고소한 맛과 바삭함을 느껴보세요❗",
-            "menuImageUrl": "images/cookie.jpg",
+            "menuImageUrl": "https://publicplatform.github.io/web/pp/kr/store/menu/list/images/cookie.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/5",
             "remark": "",
             "visibility": "visible"
