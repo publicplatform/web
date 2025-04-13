@@ -1,89 +1,99 @@
 {
-   "id": "w92P+NLUiYrS05Hbnu6DwMWLysKWmtXY1o6O39LdmojVotDjqLGx9/m8kri2oLqO",
-   "storeId": "pYyrfQIiFJcpY3t371hHCOUVmUbzqafmKdwcLfPYzKQ=",
-   "hostId": "rnCDAg+I0ZobuFAYd2u1MQ==",
-   "storeName": "ERZlxK4BDO+6ACT1bdnnL0flLlhVlbUDRvHsu/e08ek=",
-   "section": "n1/ITRiumXUz2o/FDu1PNg==",
-   "lat": "sbbI2GSMCjcLZEC3fP8J3Q==",
-   "lon": "KE31iY4YrGZdHdIXe5sIiA==",
-   "address": "yqpNxY2tmi7PjVGR9Nf3pseZvAHWRyNw3eeuAcAg4Zc=",
-   "paymentKey": "",
-   "paymentUrl": "",
-   "serverAddress": "3Xcz3bmdDeCWD7hf5RGblA==",
-   "serverPort": "l1/sDj1EusUevnczTGgV6g==",
-   "countryIso": "kr",
-   "supportedLocales": {
-       "supportedLocales": [
-           "ko_KR",
-           "en_US"
-       ],
-       "defaultLocale": "ko_KR"
-   },
-   "stId": "",
-   "openingTime": 800,
-   "closingTime": 2200,
-   "holidays": 2624,
-   "grade": 768,
-   "partnerInfoList" : [
-      {
-         "id": "pYyrfQIiFJcpY3t371hHCLnKy3j3lHsglbvHn+0LXv8=",
-		 "pid": "",
-         "hid": "dDCo+q4mEEykFn+mRvCvmA==",
-         "name": "OcPkZPD/v4xgcihEQh1FI83fRXPeU52AI7VjhyKU0hg=",
-         "comment": "Uv/BfaPB/a9487AGX/26bonOXT75cbWQRiZMW09OmGvEMy2ZNWxDeGDY3CDHtX0LbNy70+GMxVXl2R//BLEM6Q=="
-      },
-      {
-         "id": "pYyrfQIiFJcpY3t371hHCOUVmUbzqafmKdwcLfPYzKQ=",
-		 "pid": "",
-         "hid": "rnCDAg+I0ZobuFAYd2u1MQ==",
-         "name": "ERZlxK4BDO+6ACT1bdnnL0flLlhVlbUDRvHsu/e08ek=",
-         "comment": "GVY5o6S4AyTSL9f/JxkYCDjAXNYPIPZJuYcv8aj2gbwNMs56uU5iZKTTczJNDy2MnExhHVCqaYUwVtwC/wb5tA=="
-      }
-   ],
-   "phoneInfoList": [
-      {
-         "number": "nsx9ERw8x44Ybo1kl84OMA==",
-         "isMessagable": true
-      },
-      {
-         "number": "/xqU1RL6smTOHvIs5tynng==",
-         "isMessagable": true
-      },
-      {
-         "number": "W0V2vxBCPEnt9Y8G2LhqCA==",
-         "isMessagable": true
-      },
-      {
-         "number": "4ycyt6KvtpjYyzOsNOhZxQ==",
-         "isMessagable": true
-      },
-      {
-         "number": "0DEtwpDNgs6qYzBULdaf3Q==",
-         "isMessagable": false
-      }
-   ],
-   "menuInfoList": null,
-   "serviceOptions": {
-      "selfDelivery": true,
-      "delivery": true,
-      "takeout": true,
-      "reservation": true,
-      "coupon": true,
-      "allDay": true,
-      "parking": true,
-      "driveThrough": true,
-      "paymentTypes": 4294967295
-   },
-   "no":0,
-   "subNo":0,
-   "hostUrl":"https://publicplatform.github.io/web",
-   "iconUrl":"https://publicplatform.github.io/web/pp/test/images/cafe_202005060930.jpg",
-   "introUrl": "https://cafe.naver.com/publicplatform/6",
-   "menuUrl": "https://cafe.naver.com/publicplatform/5",
-   "flyerUrl":"https://publicplatform.github.io/web/pp/test/images/flyer_blueberry_cafe.png",
-   "summary": "♡소중한 사람과 여유를 즐기세요♡",
-   "regDatetime": 202005101000,
-   "expDatetime": 99991231235959,
-   "isShowBST":false,"isShowAET":false,
-   "badgeText":"할인 20%","badgeColor":"#ffea5b5b","badgeSubText":"","badgeTextColor":"#ffffffff","badgeAlignment":"overlay|left|top"
+    "id": "w92P+NLUiYrS05Hbnu6DwMWLysKWmtXY1o6O39LdmojVotDjqLGx9/m8kri2oLqO",
+    "storeId": "pYyrfQIiFJcpY3t371hHCOUVmUbzqafmKdwcLfPYzKQ=",
+    "hostId": "rnCDAg+I0ZobuFAYd2u1MQ==",
+    "storeName": "ERZlxK4BDO+6ACT1bdnnL0flLlhVlbUDRvHsu/e08ek=",
+    "section": "n1/ITRiumXUz2o/FDu1PNg==",
+    "lat": "sbbI2GSMCjcLZEC3fP8J3Q==",
+    "lon": "KE31iY4YrGZdHdIXe5sIiA==",
+    "address": "yqpNxY2tmi7PjVGR9Nf3pseZvAHWRyNw3eeuAcAg4Zc=",
+    "paymentKey": "",
+    "paymentUrl": "",
+    "serverAddress": "3Xcz3bmdDeCWD7hf5RGblA==",
+    "serverPort": "l1/sDj1EusUevnczTGgV6g==",
+    "bizOwnerName": "qb4QaGW4aSZR2Qo9mlztzQ==",
+    "bizRegNo": "/YIm8sOtiMPtSOlILSUBJg==",
+    "countryIso": "kr",
+    "supportedLocales": {
+        "supportedLocales": [
+            "en_US",
+            "ko_KR"
+        ],
+        "defaultLocale": "ko_KR",
+        "preferredLocale": "ko_KR"
+    },
+    "stId": "",
+    "openingTime": 800,
+    "closingTime": 2200,
+    "holidays": 2624,
+    "grade": 768,
+    "partnerInfoList": [
+        {
+            "id": "pYyrfQIiFJcpY3t371hHCLnKy3j3lHsglbvHn+0LXv8=",
+            "pid": "",
+            "hid": "dDCo+q4mEEykFn+mRvCvmA==",
+            "name": "OcPkZPD/v4xgcihEQh1FI83fRXPeU52AI7VjhyKU0hg=",
+            "section": "",
+            "comment": "Uv/BfaPB/a9487AGX/26bonOXT75cbWQRiZMW09OmGvEMy2ZNWxDeGDY3CDHtX0LbNy70+GMxVXl2R//BLEM6Q=="
+        },
+        {
+            "id": "pYyrfQIiFJcpY3t371hHCOUVmUbzqafmKdwcLfPYzKQ=",
+            "pid": "",
+            "hid": "rnCDAg+I0ZobuFAYd2u1MQ==",
+            "name": "ERZlxK4BDO+6ACT1bdnnL0flLlhVlbUDRvHsu/e08ek=",
+            "section": "",
+            "comment": "GVY5o6S4AyTSL9f/JxkYCDjAXNYPIPZJuYcv8aj2gbwNMs56uU5iZKTTczJNDy2MnExhHVCqaYUwVtwC/wb5tA=="
+        }
+    ],
+    "phoneInfoList": [
+        {
+            "number": "nsx9ERw8x44Ybo1kl84OMA==",
+            "isMessagable": true
+        },
+        {
+            "number": "/xqU1RL6smTOHvIs5tynng==",
+            "isMessagable": true
+        },
+        {
+            "number": "W0V2vxBCPEnt9Y8G2LhqCA==",
+            "isMessagable": true
+        },
+        {
+            "number": "4ycyt6KvtpjYyzOsNOhZxQ==",
+            "isMessagable": true
+        },
+        {
+            "number": "0DEtwpDNgs6qYzBULdaf3Q==",
+            "isMessagable": false
+        }
+    ],
+    "serviceOptions": {
+        "selfDelivery": true,
+        "delivery": true,
+        "takeout": true,
+        "reservation": true,
+        "coupon": true,
+        "allDay": true,
+        "parking": true,
+        "driveThrough": true,
+        "paymentTypes": 4294967295
+    },
+    "no": 0,
+    "subNo": 0,
+    "hostUrl": "https://publicplatform.github.io/web",
+    "iconUrl": "https://publicplatform.github.io/web/pp/test/images/cafe_202005060930.jpg",
+    "introUrl": "https://cafe.naver.com/publicplatform/6",
+    "menuUrl": "https://cafe.naver.com/publicplatform/5",
+    "flyerUrl": "https://publicplatform.github.io/web/pp/test/images/flyer_blueberry_cafe.png",
+    "summary": "♡소중한 사람과 여유를 즐기세요♡",
+    "regDatetime": 20200510100000,
+    "expDatetime": 99991231235959,
+    "isShowBST": false,
+    "isShowAET": false,
+    "badgeText": "할인 20%",
+    "badgeColor": "#ffea5b5b",
+    "badgeSubText": "",
+    "badgeTextColor": "#ffffffff",
+    "badgeAlignment": "overlay|left|top",
+    "isLike": false
 }
