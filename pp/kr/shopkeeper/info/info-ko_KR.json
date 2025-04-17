@@ -9,10 +9,12 @@
     "address": "yqpNxY2tmi7PjVGR9Nf3pseZvAHWRyNw3eeuAcAg4Zc=",
     "paymentKey": "",
     "paymentUrl": "",
-    "serverAddress": "3Xcz3bmdDeCWD7hf5RGblA==",
+    "serverAddress": "QITDuq65hQ2a8zfwfjm/Ug==",
     "serverPort": "l1/sDj1EusUevnczTGgV6g==",
+	"pushPort": "Bp3IB+JbyEs4zFFjKTJZLg==",
     "bizOwnerName": "qb4QaGW4aSZR2Qo9mlztzQ==",
     "bizRegNo": "/YIm8sOtiMPtSOlILSUBJg==",
+	"isCustomerAuthRequired": true,
     "countryIso": "kr",
     "supportedLocales": {
         "supportedLocales": [
