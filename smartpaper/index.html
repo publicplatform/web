@@ -102,9 +102,9 @@
         }
         .js-example {
             white-space: pre-wrap;
-			word-wrap: break-word;
-			border: 1px solid black;
-			padding: 10px;
+            word-wrap: break-word;
+            border: 1px solid black;
+            padding: 10px;
         }
     </style>
 </head>
@@ -145,6 +145,11 @@
             </div>
         </div>
 
+        <div class="form-group checkbox-group">
+            <input type="checkbox" id="autoSaveCheckbox">
+            <label for="autoSaveCheckbox">Auto Save</label>
+        </div>
+
         <div class="form-group js-example">
             <label for="sampleData">Sample Data:</label>
             <div id="sampleData"></div>
@@ -169,6 +174,7 @@
         const encodeUrlCheckbox = document.getElementById('encodeUrlCheckbox'); // 체크박스 요소
         const ivInput = document.getElementById('ivInput');
         const keyBitsSelect = document.getElementById('keyBitsSelect');
+        const autoSaveCheckbox = document.getElementById('autoSaveCheckbox'); // 체크박스 요소
         const submitButton = document.getElementById('submitButton');
         const resultUrlDiv = document.getElementById('resultUrl');
         const sampleDataDiv = document.getElementById('sampleData');
@@ -191,6 +197,7 @@
             const selectedType = typeSelect.value;
             let urlParamValue = urlInput.value.trim();
             const applyEncoding = encodeUrlCheckbox.checked; // 체크박스 상태 확인
+            const autoSave = autoSaveCheckbox.checked; // 체크박스 상태 확인
 
             const params = new URLSearchParams();
 
@@ -215,6 +222,12 @@
                 if (keyBitsParamValue) {
                     params.append('keyBits', encodeURIComponent(keyBitsParamValue));
                 }
+            }
+            
+            if (autoSave) {
+                params.append('autoSave', 'true');
+            } else {
+                params.append('autoSave', 'false');
             }
 
             let finalUrl = mainUrlBase;
