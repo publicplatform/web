@@ -106,6 +106,9 @@
             border: 1px solid black;
             padding: 10px;
         }
+        .hidden-div {
+            display: none;
+        }
     </style>
 </head>
 <body>
@@ -125,7 +128,7 @@
             <input type="text" id="urlInput">
         </div>
 
-        <div class="form-group checkbox-group">
+        <div class="hidden-div form-group checkbox-group">
             <input type="checkbox" id="encodeUrlCheckbox">
             <label for="encodeUrlCheckbox">Apply URL encoding (use if not encoded)</label>
         </div>
@@ -183,7 +186,7 @@
         // typeSelect 변경 시 추가 필드 가시성 토글
         typeSelect.addEventListener('change', function() {
             if (typeSelect.value === 'surl') {
-                sampleDataDiv.textContent = '[URL] /3C0KcmfZj69Bsl/DBJ29kPlwH68JWEdWujn/LEFZdn9i1UokVxJVTlmZusCwprSY21ikMyvjQu5UGqLwdDw7E9m/6kZUnL+uIlzrzLeD3sqdYkZeWZK74rFU76DX/8=\n[IV] EBESExQVFhcYGRob\n\n*Password: 1234';
+                sampleDataDiv.textContent = '[URL] /3C0KcmfZj69Bsl/DBJ29kPlwH68JWEdWujn/LEFZdn9i1UokVxJVTlmZusCwprSY21ikMyvjQu5UGqLwdDw7E9m/6kZUnL+uIlzrzLeD3sqdYkZeWZK74rFU76DX/8=\n[IV] EBESExQVFhcYGRob\n\n*PIN: 1234';
                 urlInput.placeholder = 'String encoded in Base64 after encryption';
                 surlFieldsDiv.style.display = 'block'; // 'surl'일 때 보이기
             } else {
